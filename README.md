@@ -1,10 +1,9 @@
 <h2>About me</h2>
-<br/>
-👋 Hi, I am a backend developer with a strong interest 👀 for Python 🐍.<br /> 
-🌱 I’m currently learning it and I like to experiment 🧑‍🔬 💥. I like to learn something new.
-<br/>
+<h3>👋 Hi, I am a backend developer with a strong interest 👀 for Python 🐍.</h3>
+<h3>🌱 I’m currently learning it and I like to experiment 🧑‍🔬 💥. I like to learn something new.</h3>
 <br/>
 <hr/>
+<br/>
 <h2>My (current) knowledge</h2>
 <img align="left" alt=".NET Core" width="26px" src="https://camo.githubusercontent.com/0dfe6a6b0df855abefa603515e106350e6262d9e4913b7d5730540c35cacf268/68747470733a2f2f61647269616e77696c637a796e736b692e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f61647269616e77696c637a796e736b692f6173702d6e65742d636f72652d73776974636865722f322e302e322f313537373034333332373533342f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -15,7 +14,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
+<br />
 <hr />
+<br />
 <h2>My contacts</h2>
 <a href="https://www.linkedin.com/in/pasfal" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

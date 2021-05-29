@@ -1,7 +1,7 @@
 <h2>About me</h2>
 <br/>
 👋 Hi, I am a backend developer with a strong interest 👀 for Python 🐍.<br /> 
-🌱 I’m currently learning it and I like to experiment 🧑‍🔬 💥.
+🌱 I’m currently learning it and I like to experiment 🧑‍🔬 💥. I like to learn something new.
 <br/>
 <br/>
 <hr/>
